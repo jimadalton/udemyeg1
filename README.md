@@ -1,2 +1,2 @@
-# udemyeg1
-udemy learning example repo 1
+# Example Repository
+This is a sample repo, hello world!!!
